@@ -3,7 +3,7 @@ layout: post
 ---
 
 How to play
-
+- 5 players one each team
 - play as one of the 154 characters currently in the game
 - Destroy the enemy team's nexus, located in their base before they destroy yours
 - destroy all defense structures (turrets) that are blocking the lanes
