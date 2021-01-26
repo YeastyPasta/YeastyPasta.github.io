@@ -14,4 +14,7 @@ DirectX: Version 9C or better
 Shader: Version 2.0b capable video card
 
 - at least 1 hand or 2 feet
-
+- Keyboard
+- Mouse
+- Monitor
+- League of legends installed
